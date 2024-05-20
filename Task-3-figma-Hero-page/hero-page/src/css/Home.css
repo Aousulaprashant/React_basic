@@ -1,0 +1,47 @@
+.home-main{
+    display: flex;
+    align-items: center;
+    padding: 140px;
+}
+.left-cont{
+    max-width:600px;
+}
+.home-main .imge {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+  
+  .imge img {
+    width: 270px; /* adjust the width to your desired size */
+    height: 270px; /* adjust the height to your desired size */
+  }
+.heading h2 span{
+    color: #00BBAA;
+}
+
+.heading h2{
+    margin-bottom: 30px;
+}
+p{
+    opacity: 0.8;
+}
+
+.starbnt .btn{
+    background-color: #00BBAA;
+    border: none;
+    padding: 12px;
+    margin-top: 30px;
+    color: aliceblue;
+    border-radius: 6px;
+}
+
+.starbnt .bbnt{
+    background-color: transparent;
+    border: none;
+    color: #00BBAA;
+    margin-left: 10px;
+    font-weight: bold;
+
+}
+
